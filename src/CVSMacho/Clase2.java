@@ -9,6 +9,11 @@ package CVSMacho;
  * @author Yesica
  */
 public class Clase2 {
+
+    public Clase2() {
+    }
+    
+    public void orden(){
      System.out.println("Estoy en la rama producción");
-     System.out.println("hoy es 17/2/2023");
+     System.out.println("hoy es 17/2/2023");}
 }
